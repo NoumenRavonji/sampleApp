@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
+gem 'sprockets-rails', '3.0.0'
 
 gem 'faker',                   '1.4.2'
 gem 'carrierwave',             '0.10.0'
